@@ -1,0 +1,10 @@
+.App-header{
+    position: relative;
+    border-bottom: 1px solid #e2e2e2;
+    background: transparent;
+    padding: 20px 15px 2px;
+    margin-bottom: 3rem;
+    img{
+        width: 300px;
+    }
+}
